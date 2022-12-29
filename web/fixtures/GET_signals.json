@@ -1,0 +1,10 @@
+[
+  {
+    "expireAt": 1660172655,
+    "symbol": "BTCUSDT",
+    "data": "{\"Symbol\":\"BTCUSDT\",\"Tradingview\":\"https://www.tradingview.com/chart/?symbol=BINANCE:BTCUSDT&interval=4H\",\"Exchange\":\"\\\"https://www.binance.com/en/trade/BTC_USDT?theme=dark&type=spot\",\"CoinGecko\":\"https://www.google.com/search?q=site:coingecko.com%20BTC\",\"Google\":\"https://www.google.com/search?q=BTC%20crypto%20token\",\"Signal\":9,\"OBV\":1,\"VFI\":0,\"Fisher\":5,\"ADX\":1,\"RSI55\":2,\"Volume_Average\":0,\"Turnover_Average\":0,\"Signal_1H\":7,\"Fisher_1H\":2,\"Signal_1D\":4,\"Fisher_1D\":0}",
+    "updatedAt": 1660169055,
+    "createdAt": 1660169055,
+    "signalID": "01GA4WJVQSWRC3GWY92RGDM1X5"
+  }
+]
